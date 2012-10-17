@@ -1,4 +1,4 @@
-mapping
-=======
+# Mapping the Makespace
 
-Anything to do with mapping the space itself.
+This repository contains anything to do with mapping the space itself. This includes Skethup models,
+original measurements, source maps, etc.
